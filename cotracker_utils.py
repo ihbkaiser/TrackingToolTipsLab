@@ -78,11 +78,11 @@ def get_from_roboflow(model_id, image):
 
 def get_sv_detections(image):
     result = get_from_roboflow("sugical-tool-iszjm/1", image)
-    detections = sv.Detections.from_roboflow(result)
+    detections = sv.Detections.from_inference(result)
     return detections
 def get_mask(image):
     result = get_from_roboflow("sugical-tool-iszjm/1", image)
-    detections = sv.Detections.from_roboflow(result)
+    detections = sv.Detections.from_inference(result)
     return detections.mask
 
 
@@ -407,7 +407,7 @@ def get_tip_rec(handle, points):
         pass
     return tip_point
 
-def get_abstract_edge(bounding_box, ROI):
+def get_abstract_edge(bounding_box, ROI, threshold):
     x1 = bounding_box[0]
     x2 = bounding_box[2]
     y1 = bounding_box[1]
@@ -423,13 +423,13 @@ def get_abstract_edge(bounding_box, ROI):
     ###################### Second strategy ###########################
     distance_list = [abs(x1 - X1), abs(x2 - X2), abs(y1 - Y1), abs(y2 - Y2)]
     abstract_edge = []
-    if abs(x1 - X1) < 0.01*X2:
+    if abs(x1 - X1) < threshold*X2:
         abstract_edge.append([0, x1])
-    if abs(x2 - X2) < 0.01*X2:
+    if abs(x2 - X2) < threshold*X2:
         abstract_edge.append([1, x2])
-    if abs(y1 - Y1) < 0.01*Y2:
+    if abs(y1 - Y1) < threshold*Y2:
         abstract_edge.append([2, y1])
-    if abs(y2 - Y2) < 0.01*Y2:
+    if abs(y2 - Y2) < threshold*Y2:
         abstract_edge.append([3, y2])
     return abstract_edge
 
@@ -443,7 +443,7 @@ def crop(image, ROI): #expect ROI is [[x1, x2], [y1, y2]], we want to crop x1<=X
 
 def get_bb(image):
     result = get_from_roboflow("sugical-tool-iszjm/1", image)
-    detections = sv.Detections.from_roboflow(result)
+    detections = sv.Detections.from_inference(result)
     return detections.xyxy
 
 
