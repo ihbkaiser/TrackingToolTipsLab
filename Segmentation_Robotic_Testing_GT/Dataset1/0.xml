@@ -1,0 +1,2262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>910222</id>
+      <size>370</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-05-31 05:59:26.583959+00:00</created>
+      <updated>2024-06-02 15:48:00.446278+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>369</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>911989</id>
+          <start>0</start>
+          <stop>369</stop>
+          <url>https://app.cvat.ai/api/jobs/910222</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>duy_tung</username>
+        <email>duytunghanam@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>tip point</name>
+          <color>#7be9b9</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-06-02 15:58:27.509795+00:00</dumped>
+  </meta>
+  <image id="0" name="0.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="389.15,273.75" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="379.25,253.37" z_order="0">
+    </points>
+  </image>
+  <image id="1" name="1.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="390.14,273.75" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="379.25,255.34" z_order="0">
+    </points>
+  </image>
+  <image id="2" name="10.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="389.15,271.77" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="382.22,254.36" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="100.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="311.96,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="300.08,266.23" z_order="0">
+    </points>
+  </image>
+  <image id="4" name="101.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="309.98,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="298.10,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="5" name="102.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="299.09,267.22" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,286.62" z_order="0">
+    </points>
+  </image>
+  <image id="6" name="103.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.00,289.59" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="297.11,269.20" z_order="0">
+    </points>
+  </image>
+  <image id="7" name="104.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="307.01,286.62" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="301.07,268.21" z_order="0">
+    </points>
+  </image>
+  <image id="8" name="105.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.99,289.59" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="296.12,266.23" z_order="0">
+    </points>
+  </image>
+  <image id="9" name="106.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.00,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="296.12,266.23" z_order="0">
+    </points>
+  </image>
+  <image id="10" name="107.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.00,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="300.08,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="11" name="108.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.00,286.62" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="298.10,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="12" name="109.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="301.07,268.21" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="307.01,285.63" z_order="0">
+    </points>
+  </image>
+  <image id="13" name="11.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="392.12,273.75" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="381.23,252.38" z_order="0">
+    </points>
+  </image>
+  <image id="14" name="110.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="295.13,265.24" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="306.02,286.62" z_order="0">
+    </points>
+  </image>
+  <image id="15" name="111.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,286.62" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="298.10,264.25" z_order="0">
+    </points>
+  </image>
+  <image id="16" name="112.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="296.12,264.25" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="306.02,287.61" z_order="0">
+    </points>
+  </image>
+  <image id="17" name="113.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.99,286.62" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="294.14,266.23" z_order="0">
+    </points>
+  </image>
+  <image id="18" name="114.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="296.12,266.23" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="307.01,286.62" z_order="0">
+    </points>
+  </image>
+  <image id="19" name="115.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="297.11,265.24" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.00,287.61" z_order="0">
+    </points>
+  </image>
+  <image id="20" name="116.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="295.13,268.21" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.00,289.59" z_order="0">
+    </points>
+  </image>
+  <image id="21" name="117.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="296.12,266.23" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="306.02,287.61" z_order="0">
+    </points>
+  </image>
+  <image id="22" name="118.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,287.61" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="296.12,269.20" z_order="0">
+    </points>
+  </image>
+  <image id="23" name="119.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="294.14,267.22" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="306.02,287.61" z_order="0">
+    </points>
+  </image>
+  <image id="24" name="12.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="393.11,273.75" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="381.23,254.36" z_order="0">
+    </points>
+  </image>
+  <image id="25" name="120.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="307.01,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="294.14,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="26" name="121.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="305.03,284.64" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="294.14,268.21" z_order="0">
+    </points>
+  </image>
+  <image id="27" name="122.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="294.14,268.21" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="305.03,286.62" z_order="0">
+    </points>
+  </image>
+  <image id="28" name="123.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="294.14,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="29" name="124.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,286.62" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="293.15,269.20" z_order="0">
+    </points>
+  </image>
+  <image id="30" name="125.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="294.14,267.22" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="307.01,282.66" z_order="0">
+    </points>
+  </image>
+  <image id="31" name="126.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,284.64" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="294.14,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="32" name="127.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="292.16,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="33" name="128.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="293.15,269.20" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="306.02,285.63" z_order="0">
+    </points>
+  </image>
+  <image id="34" name="129.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="293.15,269.20" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="307.01,285.63" z_order="0">
+    </points>
+  </image>
+  <image id="35" name="13.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="393.11,273.75" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="381.23,254.36" z_order="0">
+    </points>
+  </image>
+  <image id="36" name="130.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,286.62" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="295.13,268.21" z_order="0">
+    </points>
+  </image>
+  <image id="37" name="131.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="295.13,268.21" z_order="0">
+    </points>
+  </image>
+  <image id="38" name="132.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="295.13,266.23" z_order="0">
+    </points>
+  </image>
+  <image id="39" name="133.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,284.64" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="296.12,269.20" z_order="0">
+    </points>
+  </image>
+  <image id="40" name="134.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.00,283.65" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="297.11,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="41" name="135.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="299.09,268.21" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.99,283.65" z_order="0">
+    </points>
+  </image>
+  <image id="42" name="136.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="309.98,281.67" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="300.08,264.25" z_order="0">
+    </points>
+  </image>
+  <image id="43" name="137.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="301.07,264.25" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="311.96,282.66" z_order="0">
+    </points>
+  </image>
+  <image id="44" name="138.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="313.93,281.67" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="303.05,262.27" z_order="0">
+    </points>
+  </image>
+  <image id="45" name="139.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="302.06,263.26" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="313.93,279.69" z_order="0">
+    </points>
+  </image>
+  <image id="46" name="14.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="390.14,271.77" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="379.25,255.34" z_order="0">
+    </points>
+  </image>
+  <image id="47" name="140.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,262.27" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="316.90,279.69" z_order="0">
+    </points>
+  </image>
+  <image id="48" name="141.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.99,261.28" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="319.87,277.71" z_order="0">
+    </points>
+  </image>
+  <image id="49" name="142.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="309.98,258.31" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,274.74" z_order="0">
+    </points>
+  </image>
+  <image id="50" name="143.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="313.93,256.33" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,275.73" z_order="0">
+    </points>
+  </image>
+  <image id="51" name="144.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="323.83,275.73" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="311.96,257.32" z_order="0">
+    </points>
+  </image>
+  <image id="52" name="145.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="313.93,256.33" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="323.83,273.75" z_order="0">
+    </points>
+  </image>
+  <image id="53" name="146.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="317.89,252.38" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="327.79,269.79" z_order="0">
+    </points>
+  </image>
+  <image id="54" name="147.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="329.77,272.76" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="317.89,254.36" z_order="0">
+    </points>
+  </image>
+  <image id="55" name="148.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="317.89,254.36" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="329.77,269.79" z_order="0">
+    </points>
+  </image>
+  <image id="56" name="149.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,250.40" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="329.77,267.82" z_order="0">
+    </points>
+  </image>
+  <image id="57" name="15.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="380.24,254.36" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="391.13,273.75" z_order="0">
+    </points>
+  </image>
+  <image id="58" name="150.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="332.74,266.83" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,247.43" z_order="0">
+    </points>
+  </image>
+  <image id="59" name="151.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,247.43" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="332.74,267.82" z_order="0">
+    </points>
+  </image>
+  <image id="60" name="152.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="321.85,247.43" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="331.75,266.83" z_order="0">
+    </points>
+  </image>
+  <image id="61" name="153.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="332.74,264.85" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,244.46" z_order="0">
+    </points>
+  </image>
+  <image id="62" name="154.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="321.85,248.42" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="334.72,264.85" z_order="0">
+    </points>
+  </image>
+  <image id="63" name="155.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="333.73,264.85" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,245.45" z_order="0">
+    </points>
+  </image>
+  <image id="64" name="156.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="337.69,259.90" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,240.50" z_order="0">
+    </points>
+  </image>
+  <image id="65" name="157.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,241.49" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="336.70,258.91" z_order="0">
+    </points>
+  </image>
+  <image id="66" name="158.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="336.70,256.93" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,242.48" z_order="0">
+    </points>
+  </image>
+  <image id="67" name="159.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="337.69,258.91" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,243.47" z_order="0">
+    </points>
+  </image>
+  <image id="68" name="16.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="391.13,272.76" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="378.26,256.33" z_order="0">
+    </points>
+  </image>
+  <image id="69" name="160.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="337.69,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,242.48" z_order="0">
+    </points>
+  </image>
+  <image id="70" name="161.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="338.68,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="323.83,241.49" z_order="0">
+    </points>
+  </image>
+  <image id="71" name="162.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="336.70,257.92" z_order="0">
+    </points>
+  </image>
+  <image id="72" name="163.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="337.69,255.94" z_order="0">
+    </points>
+  </image>
+  <image id="73" name="164.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="321.85,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="337.69,256.93" z_order="0">
+    </points>
+  </image>
+  <image id="74" name="165.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="335.71,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,242.48" z_order="0">
+    </points>
+  </image>
+  <image id="75" name="166.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="335.71,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="323.83,242.48" z_order="0">
+    </points>
+  </image>
+  <image id="76" name="167.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="337.69,257.92" z_order="0">
+    </points>
+  </image>
+  <image id="77" name="168.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="337.69,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="323.83,245.45" z_order="0">
+    </points>
+  </image>
+  <image id="78" name="169.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="323.83,245.45" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="337.69,256.93" z_order="0">
+    </points>
+  </image>
+  <image id="79" name="17.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="391.13,272.76" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="378.26,254.36" z_order="0">
+    </points>
+  </image>
+  <image id="80" name="170.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="334.72,256.93" z_order="0">
+    </points>
+  </image>
+  <image id="81" name="171.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="323.83,243.47" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="337.69,257.92" z_order="0">
+    </points>
+  </image>
+  <image id="82" name="172.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="336.70,255.94" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="323.83,242.48" z_order="0">
+    </points>
+  </image>
+  <image id="83" name="173.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="337.69,255.94" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="323.83,242.48" z_order="0">
+    </points>
+  </image>
+  <image id="84" name="174.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="323.83,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="337.69,256.93" z_order="0">
+    </points>
+  </image>
+  <image id="85" name="175.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="323.83,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="337.69,256.93" z_order="0">
+    </points>
+  </image>
+  <image id="86" name="176.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="337.69,256.93" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="323.83,242.48" z_order="0">
+    </points>
+  </image>
+  <image id="87" name="177.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="323.83,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="337.69,256.93" z_order="0">
+    </points>
+  </image>
+  <image id="88" name="178.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="323.83,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="337.69,256.93" z_order="0">
+    </points>
+  </image>
+  <image id="89" name="179.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="323.83,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="337.69,256.93" z_order="0">
+    </points>
+  </image>
+  <image id="90" name="18.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="379.25,254.36" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="392.12,272.76" z_order="0">
+    </points>
+  </image>
+  <image id="91" name="180.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="336.70,257.92" z_order="0">
+    </points>
+  </image>
+  <image id="92" name="181.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="337.69,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,240.50" z_order="0">
+    </points>
+  </image>
+  <image id="93" name="182.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="335.71,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,240.50" z_order="0">
+    </points>
+  </image>
+  <image id="94" name="183.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="335.71,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,240.50" z_order="0">
+    </points>
+  </image>
+  <image id="95" name="184.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,240.50" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="335.71,257.92" z_order="0">
+    </points>
+  </image>
+  <image id="96" name="185.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,238.52" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="335.71,257.92" z_order="0">
+    </points>
+  </image>
+  <image id="97" name="186.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="335.71,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,238.52" z_order="0">
+    </points>
+  </image>
+  <image id="98" name="187.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="335.71,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,238.52" z_order="0">
+    </points>
+  </image>
+  <image id="99" name="188.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,238.52" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="335.71,257.92" z_order="0">
+    </points>
+  </image>
+  <image id="100" name="189.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="335.71,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,238.52" z_order="0">
+    </points>
+  </image>
+  <image id="101" name="19.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="380.24,254.36" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="390.14,272.76" z_order="0">
+    </points>
+  </image>
+  <image id="102" name="190.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="324.82,240.50" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="336.70,253.96" z_order="0">
+    </points>
+  </image>
+  <image id="103" name="191.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="323.83,239.51" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="335.71,255.94" z_order="0">
+    </points>
+  </image>
+  <image id="104" name="192.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="334.72,254.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="323.83,239.51" z_order="0">
+    </points>
+  </image>
+  <image id="105" name="193.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="334.72,254.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="323.83,239.51" z_order="0">
+    </points>
+  </image>
+  <image id="106" name="194.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="321.85,238.52" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="334.72,254.95" z_order="0">
+    </points>
+  </image>
+  <image id="107" name="195.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="321.85,238.52" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="334.72,254.95" z_order="0">
+    </points>
+  </image>
+  <image id="108" name="196.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="334.72,254.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,238.52" z_order="0">
+    </points>
+  </image>
+  <image id="109" name="197.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="334.72,254.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,238.52" z_order="0">
+    </points>
+  </image>
+  <image id="110" name="198.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="334.72,254.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="318.88,238.52" z_order="0">
+    </points>
+  </image>
+  <image id="111" name="199.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="334.72,254.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="317.89,240.50" z_order="0">
+    </points>
+  </image>
+  <image id="112" name="2.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="392.12,274.74" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="378.26,256.33" z_order="0">
+    </points>
+  </image>
+  <image id="113" name="20.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="390.14,272.76" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="377.28,256.33" z_order="0">
+    </points>
+  </image>
+  <image id="114" name="200.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="332.74,251.98" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="318.88,237.53" z_order="0">
+    </points>
+  </image>
+  <image id="115" name="201.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="333.73,250.99" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,238.52" z_order="0">
+    </points>
+  </image>
+  <image id="116" name="202.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,238.52" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="333.73,250.99" z_order="0">
+    </points>
+  </image>
+  <image id="117" name="203.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,238.52" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="333.73,250.99" z_order="0">
+    </points>
+  </image>
+  <image id="118" name="204.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="333.73,250.99" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="319.87,238.52" z_order="0">
+    </points>
+  </image>
+  <image id="119" name="205.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="333.73,250.99" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="319.87,238.52" z_order="0">
+    </points>
+  </image>
+  <image id="120" name="206.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.00,246.44" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,262.87" z_order="0">
+    </points>
+  </image>
+  <image id="121" name="207.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,262.87" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,246.44" z_order="0">
+    </points>
+  </image>
+  <image id="122" name="208.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,262.87" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,246.44" z_order="0">
+    </points>
+  </image>
+  <image id="123" name="209.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,262.87" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,246.44" z_order="0">
+    </points>
+  </image>
+  <image id="124" name="21.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="392.12,272.76" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="379.25,253.37" z_order="0">
+    </points>
+  </image>
+  <image id="125" name="210.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.99,245.45" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,263.86" z_order="0">
+    </points>
+  </image>
+  <image id="126" name="211.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,261.88" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.99,246.44" z_order="0">
+    </points>
+  </image>
+  <image id="127" name="212.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,261.88" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,247.43" z_order="0">
+    </points>
+  </image>
+  <image id="128" name="213.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,261.88" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,247.43" z_order="0">
+    </points>
+  </image>
+  <image id="129" name="214.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,261.88" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,247.43" z_order="0">
+    </points>
+  </image>
+  <image id="130" name="215.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,261.88" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,247.43" z_order="0">
+    </points>
+  </image>
+  <image id="131" name="216.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,261.88" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,247.43" z_order="0">
+    </points>
+  </image>
+  <image id="132" name="217.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="309.98,247.43" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,261.88" z_order="0">
+    </points>
+  </image>
+  <image id="133" name="218.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,261.88" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,247.43" z_order="0">
+    </points>
+  </image>
+  <image id="134" name="219.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="309.98,247.43" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,261.88" z_order="0">
+    </points>
+  </image>
+  <image id="135" name="22.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="393.11,272.76" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="381.23,253.37" z_order="0">
+    </points>
+  </image>
+  <image id="136" name="220.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,261.88" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,247.43" z_order="0">
+    </points>
+  </image>
+  <image id="137" name="221.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,261.88" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.00,246.44" z_order="0">
+    </points>
+  </image>
+  <image id="138" name="222.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,243.47" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="319.87,261.88" z_order="0">
+    </points>
+  </image>
+  <image id="139" name="223.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.99,244.46" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="319.87,261.88" z_order="0">
+    </points>
+  </image>
+  <image id="140" name="224.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,261.88" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.00,244.46" z_order="0">
+    </points>
+  </image>
+  <image id="141" name="225.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,261.88" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.00,243.47" z_order="0">
+    </points>
+  </image>
+  <image id="142" name="226.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="307.01,242.48" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="319.87,261.88" z_order="0">
+    </points>
+  </image>
+  <image id="143" name="227.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="305.03,243.47" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="317.89,258.91" z_order="0">
+    </points>
+  </image>
+  <image id="144" name="228.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="316.90,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="305.03,243.47" z_order="0">
+    </points>
+  </image>
+  <image id="145" name="229.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="316.90,257.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="304.04,243.47" z_order="0">
+    </points>
+  </image>
+  <image id="146" name="23.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="380.24,252.38" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="390.14,270.78" z_order="0">
+    </points>
+  </image>
+  <image id="147" name="230.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="302.06,240.50" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="314.92,256.93" z_order="0">
+    </points>
+  </image>
+  <image id="148" name="231.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="302.06,240.50" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="313.93,256.93" z_order="0">
+    </points>
+  </image>
+  <image id="149" name="232.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="312.95,255.94" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="301.07,239.51" z_order="0">
+    </points>
+  </image>
+  <image id="150" name="233.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="299.09,238.52" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="312.95,255.94" z_order="0">
+    </points>
+  </image>
+  <image id="151" name="234.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="299.09,239.51" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="310.97,251.98" z_order="0">
+    </points>
+  </image>
+  <image id="152" name="235.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="299.09,239.51" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="310.97,251.98" z_order="0">
+    </points>
+  </image>
+  <image id="153" name="236.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="310.97,251.98" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="296.12,236.54" z_order="0">
+    </points>
+  </image>
+  <image id="154" name="237.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="298.10,235.55" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="310.97,251.98" z_order="0">
+    </points>
+  </image>
+  <image id="155" name="238.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="297.11,235.55" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="310.97,251.98" z_order="0">
+    </points>
+  </image>
+  <image id="156" name="239.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="310.97,251.98" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="294.14,234.56" z_order="0">
+    </points>
+  </image>
+  <image id="157" name="24.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="392.12,269.79" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="378.26,254.36" z_order="0">
+    </points>
+  </image>
+  <image id="158" name="240.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="294.14,233.57" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.99,247.03" z_order="0">
+    </points>
+  </image>
+  <image id="159" name="241.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="295.13,231.59" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.99,247.03" z_order="0">
+    </points>
+  </image>
+  <image id="160" name="242.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.00,242.08" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="296.12,229.61" z_order="0">
+    </points>
+  </image>
+  <image id="161" name="243.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="305.03,242.08" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="292.16,229.61" z_order="0">
+    </points>
+  </image>
+  <image id="162" name="244.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.00,242.08" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="293.15,227.63" z_order="0">
+    </points>
+  </image>
+  <image id="163" name="245.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="302.06,225.26" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="286.22,209.82" z_order="0">
+    </points>
+  </image>
+  <image id="164" name="246.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="286.22,208.83" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="301.07,223.28" z_order="0">
+    </points>
+  </image>
+  <image id="165" name="247.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="287.21,207.84" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="300.08,223.28" z_order="0">
+    </points>
+  </image>
+  <image id="166" name="248.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="287.21,204.87" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="300.08,222.29" z_order="0">
+    </points>
+  </image>
+  <image id="167" name="249.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="286.22,200.91" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="301.07,218.33" z_order="0">
+    </points>
+  </image>
+  <image id="168" name="25.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="392.12,270.78" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="377.28,254.36" z_order="0">
+    </points>
+  </image>
+  <image id="169" name="250.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="287.21,199.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="298.10,215.36" z_order="0">
+    </points>
+  </image>
+  <image id="170" name="251.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="298.10,213.38" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,198.93" z_order="0">
+    </points>
+  </image>
+  <image id="171" name="252.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="283.25,196.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="298.10,210.41" z_order="0">
+    </points>
+  </image>
+  <image id="172" name="253.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="286.22,192.99" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="298.10,211.40" z_order="0">
+    </points>
+  </image>
+  <image id="173" name="254.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="286.22,192.99" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="298.10,208.43" z_order="0">
+    </points>
+  </image>
+  <image id="174" name="255.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="298.10,205.46" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="287.21,188.05" z_order="0">
+    </points>
+  </image>
+  <image id="175" name="256.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="296.12,204.47" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,188.05" z_order="0">
+    </points>
+  </image>
+  <image id="176" name="257.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="285.23,188.05" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="296.12,204.47" z_order="0">
+    </points>
+  </image>
+  <image id="177" name="258.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="296.12,204.47" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,188.05" z_order="0">
+    </points>
+  </image>
+  <image id="178" name="259.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="296.12,204.47" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,188.05" z_order="0">
+    </points>
+  </image>
+  <image id="179" name="26.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="389.15,275.73" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="379.25,255.34" z_order="0">
+    </points>
+  </image>
+  <image id="180" name="260.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="286.22,185.08" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="298.10,200.52" z_order="0">
+    </points>
+  </image>
+  <image id="181" name="261.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="294.14,181.71" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="280.29,166.27" z_order="0">
+    </points>
+  </image>
+  <image id="182" name="262.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="294.14,178.74" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="283.25,164.29" z_order="0">
+    </points>
+  </image>
+  <image id="183" name="263.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="295.13,177.75" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="282.26,164.29" z_order="0">
+    </points>
+  </image>
+  <image id="184" name="264.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="284.24,158.36" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="295.13,175.77" z_order="0">
+    </points>
+  </image>
+  <image id="185" name="265.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="285.23,156.38" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="297.11,172.80" z_order="0">
+    </points>
+  </image>
+  <image id="186" name="266.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="288.20,155.39" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="301.07,170.83" z_order="0">
+    </points>
+  </image>
+  <image id="187" name="267.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="288.20,152.42" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="301.07,166.87" z_order="0">
+    </points>
+  </image>
+  <image id="188" name="268.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="301.07,162.91" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="290.18,150.44" z_order="0">
+    </points>
+  </image>
+  <image id="189" name="269.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="290.18,144.50" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="305.03,160.93" z_order="0">
+    </points>
+  </image>
+  <image id="190" name="27.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="390.14,273.75" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="382.22,251.39" z_order="0">
+    </points>
+  </image>
+  <image id="191" name="270.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="304.04,158.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="294.14,141.53" z_order="0">
+    </points>
+  </image>
+  <image id="192" name="271.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="307.01,154.00" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="294.14,138.56" z_order="0">
+    </points>
+  </image>
+  <image id="193" name="272.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="307.01,151.03" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="294.14,136.58" z_order="0">
+    </points>
+  </image>
+  <image id="194" name="273.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.99,150.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="296.12,134.60" z_order="0">
+    </points>
+  </image>
+  <image id="195" name="274.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.99,147.07" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="298.10,133.61" z_order="0">
+    </points>
+  </image>
+  <image id="196" name="275.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="310.97,144.10" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="299.09,129.65" z_order="0">
+    </points>
+  </image>
+  <image id="197" name="276.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="313.93,141.13" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="303.05,127.67" z_order="0">
+    </points>
+  </image>
+  <image id="198" name="277.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="313.93,141.13" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="300.08,126.69" z_order="0">
+    </points>
+  </image>
+  <image id="199" name="278.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="313.93,141.13" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="302.06,122.73" z_order="0">
+    </points>
+  </image>
+  <image id="200" name="279.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="303.05,118.77" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="313.93,139.16" z_order="0">
+    </points>
+  </image>
+  <image id="201" name="28.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="393.11,271.77" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="381.23,253.37" z_order="0">
+    </points>
+  </image>
+  <image id="202" name="280.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="317.89,135.20" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="305.03,116.79" z_order="0">
+    </points>
+  </image>
+  <image id="203" name="281.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,135.20" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="306.02,116.79" z_order="0">
+    </points>
+  </image>
+  <image id="204" name="282.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="317.89,130.25" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="306.02,114.81" z_order="0">
+    </points>
+  </image>
+  <image id="205" name="283.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="307.01,113.82" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,132.23" z_order="0">
+    </points>
+  </image>
+  <image id="206" name="284.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="321.85,123.32" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="306.02,105.90" z_order="0">
+    </points>
+  </image>
+  <image id="207" name="285.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="308.00,103.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,117.38" z_order="0">
+    </points>
+  </image>
+  <image id="208" name="286.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="307.01,103.92" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="319.87,117.38" z_order="0">
+    </points>
+  </image>
+  <image id="209" name="287.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,118.37" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.99,103.92" z_order="0">
+    </points>
+  </image>
+  <image id="210" name="288.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="309.98,102.93" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,118.37" z_order="0">
+    </points>
+  </image>
+  <image id="211" name="289.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="309.98,102.93" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,118.37" z_order="0">
+    </points>
+  </image>
+  <image id="212" name="29.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="390.14,273.75" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="375.30,255.34" z_order="0">
+    </points>
+  </image>
+  <image id="213" name="290.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="309.98,100.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,117.38" z_order="0">
+    </points>
+  </image>
+  <image id="214" name="291.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="309.98,101.94" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,115.40" z_order="0">
+    </points>
+  </image>
+  <image id="215" name="292.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,115.40" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,101.94" z_order="0">
+    </points>
+  </image>
+  <image id="216" name="293.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="309.98,101.94" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,115.40" z_order="0">
+    </points>
+  </image>
+  <image id="217" name="294.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,115.40" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,100.95" z_order="0">
+    </points>
+  </image>
+  <image id="218" name="295.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="311.96,100.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,115.40" z_order="0">
+    </points>
+  </image>
+  <image id="219" name="296.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,118.37" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="311.96,102.93" z_order="0">
+    </points>
+  </image>
+  <image id="220" name="297.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="311.96,100.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,118.37" z_order="0">
+    </points>
+  </image>
+  <image id="221" name="298.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="312.95,101.94" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,118.37" z_order="0">
+    </points>
+  </image>
+  <image id="222" name="299.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="309.98,101.94" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,118.37" z_order="0">
+    </points>
+  </image>
+  <image id="223" name="3.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="378.26,254.36" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="393.11,272.76" z_order="0">
+    </points>
+  </image>
+  <image id="224" name="30.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="391.13,273.75" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="377.28,255.34" z_order="0">
+    </points>
+  </image>
+  <image id="225" name="300.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,116.39" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="310.97,100.95" z_order="0">
+    </points>
+  </image>
+  <image id="226" name="301.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="310.97,100.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,115.40" z_order="0">
+    </points>
+  </image>
+  <image id="227" name="302.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="324.82,115.40" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.99,100.95" z_order="0">
+    </points>
+  </image>
+  <image id="228" name="303.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="324.82,115.40" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="308.99,102.93" z_order="0">
+    </points>
+  </image>
+  <image id="229" name="304.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="303.05,100.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,125.30" z_order="0">
+    </points>
+  </image>
+  <image id="230" name="305.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,127.28" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="299.09,97.98" z_order="0">
+    </points>
+  </image>
+  <image id="231" name="306.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="324.82,137.18" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="292.16,94.03" z_order="0">
+    </points>
+  </image>
+  <image id="232" name="307.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="285.23,96.99" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,140.15" z_order="0">
+    </points>
+  </image>
+  <image id="233" name="308.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="281.28,100.95" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,144.10" z_order="0">
+    </points>
+  </image>
+  <image id="234" name="309.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="282.26,99.96" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,144.10" z_order="0">
+    </points>
+  </image>
+  <image id="235" name="31.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="375.30,259.30" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="392.12,273.75" z_order="0">
+    </points>
+  </image>
+  <image id="236" name="310.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="323.83,142.12" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="282.26,96.99" z_order="0">
+    </points>
+  </image>
+  <image id="237" name="311.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="321.85,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="282.26,96.99" z_order="0">
+    </points>
+  </image>
+  <image id="238" name="312.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="283.25,96.99" z_order="0">
+    </points>
+  </image>
+  <image id="239" name="313.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="284.24,96.99" z_order="0">
+    </points>
+  </image>
+  <image id="240" name="314.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="284.24,96.99" z_order="0">
+    </points>
+  </image>
+  <image id="241" name="315.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="284.24,96.99" z_order="0">
+    </points>
+  </image>
+  <image id="242" name="316.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="284.24,96.99" z_order="0">
+    </points>
+  </image>
+  <image id="243" name="317.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="284.24,96.99" z_order="0">
+    </points>
+  </image>
+  <image id="244" name="318.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="284.24,96.99" z_order="0">
+    </points>
+  </image>
+  <image id="245" name="319.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="284.24,96.99" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+  </image>
+  <image id="246" name="32.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="374.31,255.34" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="389.15,273.75" z_order="0">
+    </points>
+  </image>
+  <image id="247" name="320.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="284.24,95.02" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,140.15" z_order="0">
+    </points>
+  </image>
+  <image id="248" name="321.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="286.22,94.03" z_order="0">
+    </points>
+  </image>
+  <image id="249" name="322.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="286.22,94.03" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+  </image>
+  <image id="250" name="323.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="286.22,94.03" z_order="0">
+    </points>
+  </image>
+  <image id="251" name="324.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="286.22,94.03" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+  </image>
+  <image id="252" name="325.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="286.22,94.03" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+  </image>
+  <image id="253" name="326.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="284.24,93.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+  </image>
+  <image id="254" name="327.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="283.25,92.05" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+  </image>
+  <image id="255" name="328.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,96.00" z_order="0">
+    </points>
+  </image>
+  <image id="256" name="329.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,89.08" z_order="0">
+    </points>
+  </image>
+  <image id="257" name="33.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="379.25,257.32" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="389.15,273.75" z_order="0">
+    </points>
+  </image>
+  <image id="258" name="330.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="324.82,139.16" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="284.24,91.06" z_order="0">
+    </points>
+  </image>
+  <image id="259" name="331.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="284.24,93.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="324.82,139.16" z_order="0">
+    </points>
+  </image>
+  <image id="260" name="332.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="283.25,93.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,139.16" z_order="0">
+    </points>
+  </image>
+  <image id="261" name="333.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="321.85,139.16" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="282.26,91.06" z_order="0">
+    </points>
+  </image>
+  <image id="262" name="334.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="321.85,139.16" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="283.25,93.04" z_order="0">
+    </points>
+  </image>
+  <image id="263" name="335.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="285.23,93.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,139.16" z_order="0">
+    </points>
+  </image>
+  <image id="264" name="336.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="285.23,93.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,139.16" z_order="0">
+    </points>
+  </image>
+  <image id="265" name="337.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="285.23,93.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,139.16" z_order="0">
+    </points>
+  </image>
+  <image id="266" name="338.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="321.85,139.16" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,93.04" z_order="0">
+    </points>
+  </image>
+  <image id="267" name="339.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="285.23,93.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="321.85,139.16" z_order="0">
+    </points>
+  </image>
+  <image id="268" name="34.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="386.18,274.74" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="377.28,255.34" z_order="0">
+    </points>
+  </image>
+  <image id="269" name="340.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="284.24,93.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,138.17" z_order="0">
+    </points>
+  </image>
+  <image id="270" name="341.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="286.22,90.07" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="318.88,140.15" z_order="0">
+    </points>
+  </image>
+  <image id="271" name="342.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="286.22,90.07" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="318.88,140.15" z_order="0">
+    </points>
+  </image>
+  <image id="272" name="343.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="318.88,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="286.22,90.07" z_order="0">
+    </points>
+  </image>
+  <image id="273" name="344.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="318.88,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="286.22,90.07" z_order="0">
+    </points>
+  </image>
+  <image id="274" name="345.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="318.88,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="286.22,90.07" z_order="0">
+    </points>
+  </image>
+  <image id="275" name="346.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="318.88,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="286.22,90.07" z_order="0">
+    </points>
+  </image>
+  <image id="276" name="347.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="318.88,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="286.22,90.07" z_order="0">
+    </points>
+  </image>
+  <image id="277" name="348.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="286.22,90.07" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="318.88,140.15" z_order="0">
+    </points>
+  </image>
+  <image id="278" name="349.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="318.88,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="284.24,94.03" z_order="0">
+    </points>
+  </image>
+  <image id="279" name="35.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="373.32,256.33" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="384.20,275.73" z_order="0">
+    </points>
+  </image>
+  <image id="280" name="350.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="284.24,93.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,140.15" z_order="0">
+    </points>
+  </image>
+  <image id="281" name="351.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="286.22,92.05" z_order="0">
+    </points>
+  </image>
+  <image id="282" name="352.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,92.05" z_order="0">
+    </points>
+  </image>
+  <image id="283" name="353.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,93.04" z_order="0">
+    </points>
+  </image>
+  <image id="284" name="354.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="285.23,93.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,140.15" z_order="0">
+    </points>
+  </image>
+  <image id="285" name="355.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="282.26,92.05" z_order="0">
+    </points>
+  </image>
+  <image id="286" name="356.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,93.04" z_order="0">
+    </points>
+  </image>
+  <image id="287" name="357.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,140.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,93.04" z_order="0">
+    </points>
+  </image>
+  <image id="288" name="358.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="285.23,93.04" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,140.15" z_order="0">
+    </points>
+  </image>
+  <image id="289" name="359.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="285.23,94.03" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,140.15" z_order="0">
+    </points>
+  </image>
+  <image id="290" name="36.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="381.23,277.71" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="368.37,259.30" z_order="0">
+    </points>
+  </image>
+  <image id="291" name="360.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="283.25,95.02" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,139.16" z_order="0">
+    </points>
+  </image>
+  <image id="292" name="361.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,139.16" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="283.25,93.04" z_order="0">
+    </points>
+  </image>
+  <image id="293" name="362.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="282.26,95.02" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,139.16" z_order="0">
+    </points>
+  </image>
+  <image id="294" name="363.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,139.16" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="285.23,96.99" z_order="0">
+    </points>
+  </image>
+  <image id="295" name="364.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="321.85,135.20" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="282.26,91.65" z_order="0">
+    </points>
+  </image>
+  <image id="296" name="365.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="282.26,92.05" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.22,138.17" z_order="0">
+    </points>
+  </image>
+  <image id="297" name="366.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,137.18" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="282.26,95.02" z_order="0">
+    </points>
+  </image>
+  <image id="298" name="367.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="283.25,95.02" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,137.18" z_order="0">
+    </points>
+  </image>
+  <image id="299" name="368.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="283.25,94.03" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,137.18" z_order="0">
+    </points>
+  </image>
+  <image id="300" name="369.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="322.84,137.18" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="283.25,94.03" z_order="0">
+    </points>
+  </image>
+  <image id="301" name="37.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="366.39,260.29" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="379.25,278.70" z_order="0">
+    </points>
+  </image>
+  <image id="302" name="38.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="363.42,260.29" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="373.32,278.70" z_order="0">
+    </points>
+  </image>
+  <image id="303" name="39.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="355.50,263.26" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="369.36,280.68" z_order="0">
+    </points>
+  </image>
+  <image id="304" name="4.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="381.23,255.34" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="390.14,276.72" z_order="0">
+    </points>
+  </image>
+  <image id="305" name="40.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="366.39,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="357.48,266.23" z_order="0">
+    </points>
+  </image>
+  <image id="306" name="41.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="364.41,281.67" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="352.53,262.27" z_order="0">
+    </points>
+  </image>
+  <image id="307" name="42.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="350.55,263.26" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="359.46,282.66" z_order="0">
+    </points>
+  </image>
+  <image id="308" name="43.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="359.46,282.66" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="345.60,263.26" z_order="0">
+    </points>
+  </image>
+  <image id="309" name="44.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="359.46,282.66" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="345.60,263.26" z_order="0">
+    </points>
+  </image>
+  <image id="310" name="45.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="359.46,282.66" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="343.62,263.26" z_order="0">
+    </points>
+  </image>
+  <image id="311" name="46.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="346.59,264.25" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="359.46,282.66" z_order="0">
+    </points>
+  </image>
+  <image id="312" name="47.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="359.46,282.66" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="345.60,260.29" z_order="0">
+    </points>
+  </image>
+  <image id="313" name="48.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="344.62,262.27" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="353.52,281.67" z_order="0">
+    </points>
+  </image>
+  <image id="314" name="49.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="343.62,262.27" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="354.51,280.68" z_order="0">
+    </points>
+  </image>
+  <image id="315" name="5.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="380.24,256.33" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="392.12,273.75" z_order="0">
+    </points>
+  </image>
+  <image id="316" name="50.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="353.52,282.66" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="341.65,263.26" z_order="0">
+    </points>
+  </image>
+  <image id="317" name="51.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="345.60,263.26" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="353.52,277.71" z_order="0">
+    </points>
+  </image>
+  <image id="318" name="52.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="342.64,262.27" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="352.53,278.70" z_order="0">
+    </points>
+  </image>
+  <image id="319" name="53.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="351.54,278.70" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="340.66,262.27" z_order="0">
+    </points>
+  </image>
+  <image id="320" name="54.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="340.66,262.27" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="347.58,281.67" z_order="0">
+    </points>
+  </image>
+  <image id="321" name="55.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="339.67,263.26" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="347.58,281.67" z_order="0">
+    </points>
+  </image>
+  <image id="322" name="56.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="347.58,281.67" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="335.71,263.26" z_order="0">
+    </points>
+  </image>
+  <image id="323" name="57.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="345.60,284.64" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="333.73,262.27" z_order="0">
+    </points>
+  </image>
+  <image id="324" name="58.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="331.75,266.23" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="342.64,284.64" z_order="0">
+    </points>
+  </image>
+  <image id="325" name="59.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="329.77,266.23" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="337.69,283.65" z_order="0">
+    </points>
+  </image>
+  <image id="326" name="6.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="389.15,273.75" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="379.25,256.33" z_order="0">
+    </points>
+  </image>
+  <image id="327" name="60.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="340.66,284.64" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="326.80,265.24" z_order="0">
+    </points>
+  </image>
+  <image id="328" name="61.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="326.80,264.25" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="335.71,285.63" z_order="0">
+    </points>
+  </image>
+  <image id="329" name="62.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="335.71,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="325.81,265.24" z_order="0">
+    </points>
+  </image>
+  <image id="330" name="63.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="331.75,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="322.84,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="331" name="64.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="326.80,286.62" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="319.87,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="332" name="65.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="320.86,267.22" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="326.80,286.62" z_order="0">
+    </points>
+  </image>
+  <image id="333" name="66.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="326.80,286.62" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="320.86,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="334" name="67.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="317.89,267.22" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="326.80,286.62" z_order="0">
+    </points>
+  </image>
+  <image id="335" name="68.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="326.80,286.62" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="318.88,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="336" name="69.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="319.87,267.22" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="326.80,286.62" z_order="0">
+    </points>
+  </image>
+  <image id="337" name="7.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="380.24,258.31" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="389.15,277.71" z_order="0">
+    </points>
+  </image>
+  <image id="338" name="70.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="329.77,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="318.88,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="339" name="71.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="318.88,267.22" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="329.77,285.63" z_order="0">
+    </points>
+  </image>
+  <image id="340" name="72.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="318.88,267.22" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="329.77,285.63" z_order="0">
+    </points>
+  </image>
+  <image id="341" name="73.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="317.89,267.22" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="329.77,285.63" z_order="0">
+    </points>
+  </image>
+  <image id="342" name="74.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="329.77,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="314.92,268.21" z_order="0">
+    </points>
+  </image>
+  <image id="343" name="75.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="329.77,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="316.90,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="344" name="76.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="315.91,266.23" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="329.77,285.63" z_order="0">
+    </points>
+  </image>
+  <image id="345" name="77.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="315.91,263.26" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="329.77,285.63" z_order="0">
+    </points>
+  </image>
+  <image id="346" name="78.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="313.93,268.21" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="329.77,285.63" z_order="0">
+    </points>
+  </image>
+  <image id="347" name="79.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="326.80,285.63" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="312.95,268.21" z_order="0">
+    </points>
+  </image>
+  <image id="348" name="8.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="377.28,257.32" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="390.14,274.74" z_order="0">
+    </points>
+  </image>
+  <image id="349" name="80.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="325.81,287.61" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="311.96,267.22" z_order="0">
+    </points>
+  </image>
+  <image id="350" name="81.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="318.88,288.60" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="309.98,269.20" z_order="0">
+    </points>
+  </image>
+  <image id="351" name="82.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="306.02,270.19" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="318.88,289.59" z_order="0">
+    </points>
+  </image>
+  <image id="352" name="83.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="315.91,293.55" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="303.05,271.18" z_order="0">
+    </points>
+  </image>
+  <image id="353" name="84.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="300.08,273.16" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="312.95,292.56" z_order="0">
+    </points>
+  </image>
+  <image id="354" name="85.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="301.07,274.15" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="312.95,292.56" z_order="0">
+    </points>
+  </image>
+  <image id="355" name="86.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="298.10,275.14" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="312.95,292.56" z_order="0">
+    </points>
+  </image>
+  <image id="356" name="87.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="312.95,292.56" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="298.10,275.14" z_order="0">
+    </points>
+  </image>
+  <image id="357" name="88.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="298.10,275.14" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="312.95,292.56" z_order="0">
+    </points>
+  </image>
+  <image id="358" name="89.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="312.95,292.56" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="298.10,275.14" z_order="0">
+    </points>
+  </image>
+  <image id="359" name="9.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="391.13,273.75" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="381.23,256.33" z_order="0">
+    </points>
+  </image>
+  <image id="360" name="90.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="311.96,288.60" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="303.05,271.18" z_order="0">
+    </points>
+  </image>
+  <image id="361" name="91.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="311.96,288.60" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="303.05,271.18" z_order="0">
+    </points>
+  </image>
+  <image id="362" name="92.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="303.05,271.18" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="311.96,288.60" z_order="0">
+    </points>
+  </image>
+  <image id="363" name="93.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="311.96,288.60" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="302.06,271.18" z_order="0">
+    </points>
+  </image>
+  <image id="364" name="94.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="299.09,271.18" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="311.96,288.60" z_order="0">
+    </points>
+  </image>
+  <image id="365" name="95.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="311.96,288.60" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="299.09,271.18" z_order="0">
+    </points>
+  </image>
+  <image id="366" name="96.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="311.96,288.60" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="299.09,271.18" z_order="0">
+    </points>
+  </image>
+  <image id="367" name="97.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="299.09,271.18" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="311.96,288.60" z_order="0">
+    </points>
+  </image>
+  <image id="368" name="98.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="299.09,271.18" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="311.96,288.60" z_order="0">
+    </points>
+  </image>
+  <image id="369" name="99.png" width="720" height="576">
+    <points label="tip point" source="manual" occluded="0" points="299.09,271.18" z_order="0">
+    </points>
+    <points label="tip point" source="manual" occluded="0" points="311.96,288.60" z_order="0">
+    </points>
+  </image>
+</annotations>
