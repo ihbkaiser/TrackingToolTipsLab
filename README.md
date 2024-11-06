@@ -1,5 +1,5 @@
 # Improved Instance Segmentation-based Algorithm for Surgical Instrument Tip Detection
-**[15.07.2024]** Paper submitted to [ICTA 2024](https://icta.hvu.edu.vn/). 
+[ICTA 2024](https://icta.hvu.edu.vn/). 
 
 In this paper, we propose an algorithm based on segmentation masks to identify the tip point of a surgical instrument. We tested it on the Endovis 15 Dataset, achieving an accuracy of up to 87%.  
 
