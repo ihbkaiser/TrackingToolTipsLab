@@ -93,7 +93,7 @@ class Image:
             image_with_skeleton = cv2.addWeighted(skeleton_image, 0.3, image_with_skeleton, 0.7, 0)
         sv.plot_image(image_with_skeleton)
         
-    def getIns(self, leftright_margin_threshold = 5, updown_margin_threshold = 0, abstract_edge_threshold = 0.1, range_of_interest = ROI):
+    def getIns(self, dijkstra = True, leftright_margin_threshold = 5, updown_margin_threshold = 0, abstract_edge_threshold = 0.1, range_of_interest = ROI):
         '''
         Assume the image has M skeletons, then this function returns a list contains M lists,
         each list contains the tip of the corresponding skeleton
@@ -103,6 +103,7 @@ class Image:
             abstract_edge_threshold : An edge is considered close to the boundary ,
             if the distance d between that edge and the boundary is less than abstract_edge_threshold * width (or length)
             range_of_interest : ROI of frame.
+            dijkstra: If True, use Dijkstra to find the tip point from the handle using accumulated distance, else use normal Euclidean distance
         '''
         assert self.masks is not None, "Mask not set"
         tips = []
@@ -148,9 +149,12 @@ class Image:
               # tip = max(path_lengths, key=path_lengths.get)
               endpoints.append(end_points)
               handles.append(handle)
-              dist = np.linalg.norm(np.array(node_list) - np.array(handle), axis = 1)
-              farthest_index = np.argmax(dist)
-              tips.append(node_list[farthest_index])
-              print("Appended")
-            
+              if not dijkstra:
+                dist = np.linalg.norm(np.array(node_list) - np.array(handle), axis = 1)
+                farthest_index = np.argmax(dist)
+                tips.append(node_list[farthest_index])
+              else:
+                path_lengths =  nx.single_source_dijkstra_path_length(G, handle)
+                tip = max(path_lengths, key=path_lengths.get)
+                tips.append(tip)
         return tips, handles, endpoints
