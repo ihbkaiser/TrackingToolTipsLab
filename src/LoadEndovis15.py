@@ -45,7 +45,7 @@ class LoadEndovis15:
         model_here = Endovis15GT(mask)
         frame.setAll(model_here)
         return frame
-    def process(self, multiprocessing = True):
+    def process(self, multiprocessing = True, method = "YOLOv11Model"):
         if not multiprocessing:
             self.vid.setFrames()
             frames = self.vid.frames
@@ -56,8 +56,13 @@ class LoadEndovis15:
                 mask = []
                 for gt in self.gt:
                     mask.append(Mask(gt.getFrame(idx).image))
-                # model_here = Endovis15GT(mask)
-                model_here = YOLOModel("Models/yolo_weights/endovis15.pt")
+                if method == "Endovis15GT":
+                    model_here = Endovis15GT(mask)
+                elif method == "YOLOv9Model":
+                    model_here = YOLOModel("Models/yolo_weights/endovis15.pt")
+                elif method == "YOLOv11Model":
+                    model_here = YOLOModel("Models/yolo_weights/endovis15-2025.pt")
+                # model_here = YOLOModel("Models/yolo_weights/endovis15.pt")
                 #model_here = LabModel()
                 # model_here = YOLOModel("yolov9c-best.pt")
                 ## if u want to use LabModel, set model_here = LabModel()
