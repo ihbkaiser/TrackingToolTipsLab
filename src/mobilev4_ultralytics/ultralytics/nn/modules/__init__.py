@@ -52,7 +52,9 @@ from .block import (
     RepNCSPELAN4,
     RepVGGDW,
     ResNetLayer,
-    SCDown, ODGC2f, ODConv_3rd
+    SCDown, ODGC2f, ODConv_3rd,
+    C3k2,
+    A2C2f,
 )
 from .conv import (
     CBAM,
@@ -115,6 +117,8 @@ __all__ = (
     "C2fAttn",
     "C3x",
     "C3TR",
+    "C3k2",
+    "A2C2f",
     "C3Ghost",
     "GhostBottleneck",
     "Bottleneck",

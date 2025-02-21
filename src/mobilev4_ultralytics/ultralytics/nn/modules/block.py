@@ -48,6 +48,8 @@ __all__ = (
     "SCDown",
     "ODGC2f",
     "ODConv_3rd",
+    "C3k2",
+    "A2C2f",
 )
 
 
